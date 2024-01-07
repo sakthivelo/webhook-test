@@ -2,4 +2,4 @@
 Test-Jenkins-webhook
 Updated readme txt!!
 
-Testing done!!
+Testing done..
